@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postgraduate student at Beijing Information Science and Technology University. I am a teacher of [Wenfeng Song (宋文凤)](https://buaaswf.github.io/songwenfeng/). My research interests include computer vision, virtual humans, and the intersection of medicine and computer science. At present, I mainly focus on the research of facial actuation of virtual humans.
+I am a postgraduate student at Beijing Information Science and Technology University, advised by [Wenfeng Song (宋文凤)](https://buaaswf.github.io/songwenfeng/). My research interests include computer vision, virtual humans, and the intersection of medicine and computer science. At present, I mainly focus on the research of facial actuation of virtual humans.
 
 
 # 🔥 News
