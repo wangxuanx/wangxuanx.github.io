@@ -27,6 +27,17 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Waiting for acceptance</div><img src='images/CenterFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CenterFormer: A Novel Cluster Center Enhanced Transformer for Unconstrained Dental Plaque Segmentation]()
+
+Wengeng Song*, **Xuan Wang**, Yuting Guo, Shuai Li*, Bin Xia, Aimin Hao
+
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/Emotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
