@@ -60,12 +60,12 @@ Zhenyu LV, **Xuan Wang**, Wengeng Song*, Xia Hou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2024 Poster</div><img src='images/FusionCraft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2024 Poster</div><img src='images/IEEEVR2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FusionCraft: Fusing Emotion and Identity in Cross-Modal 3D Facial Animation]()
+[Voicing Your Emotion: Integrating Emotion and Identity in Cross-Modal 3D Facial Animations]()
 
-Zhenyu LV, **Xuan Wang**, Wengeng Song*, Xia Hou
+Wengeng Song, Zhenyu LV, **Xuan Wang**, Xia Hou*
 
 [**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
