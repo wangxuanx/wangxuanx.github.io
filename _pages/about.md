@@ -27,7 +27,7 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/FusionCraft.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/FusionCraft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FusionCraft: Fusing Emotion and Identity in Cross-Modal 3D Facial Animation]()
