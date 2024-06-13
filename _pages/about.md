@@ -21,13 +21,14 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted to TMM.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted to TVCG. 
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted to TVCG.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted to ICIC 2024.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Waiting for acceptance</div><img src='images/CenterFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/CenterFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CenterFormer: A Novel Cluster Center Enhanced Transformer for Unconstrained Dental Plaque Segmentation]()
