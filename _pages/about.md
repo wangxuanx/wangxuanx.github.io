@@ -33,7 +33,7 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 
 [CenterFormer: A Novel Cluster Center Enhanced Transformer for Unconstrained Dental Plaque Segmentation]()
 
-Wengeng Song*, **Xuan Wang**, Yuting Guo, Shuai Li*, Bin Xia, Aimin Hao
+Wenfeng Song*, **Xuan Wang**, Yuting Guo, Shuai Li*, Bin Xia, Aimin Hao
 
 [**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -44,7 +44,7 @@ Wengeng Song*, **Xuan Wang**, Yuting Guo, Shuai Li*, Bin Xia, Aimin Hao
 
 [Expressive 3D Facial Animation Generation Based on Local-to-global Latent Diffusion]()
 
-Wengeng Song*, **Xuan Wang**, Yiming Jiang, Shuai Li*, Aimin Hao, Xia Hou, Hong Qin
+Wenfeng Song*, **Xuan Wang**, Yiming Jiang, Shuai Li*, Aimin Hao, Xia Hou, Hong Qin
 
 [**Github**](https://github.com/wangxuanx/Face-Diffusion-Model) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -55,7 +55,7 @@ Wengeng Song*, **Xuan Wang**, Yiming Jiang, Shuai Li*, Aimin Hao, Xia Hou, Hong 
 
 [TalkingStyle: Personalized Speech-Driven 3D Facial Animation with Style Preservation]()
 
-Wengeng Song*, **Xuan Wang**, Shi Zheng, Shuai Li*, Aimin Hao, Xia Hou
+Wenfeng Song*, **Xuan Wang**, Shi Zheng, Shuai Li*, Aimin Hao, Xia Hou
 
 [**Github**](https://github.com/wangxuanx/TalkingStyle) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -66,7 +66,7 @@ Wengeng Song*, **Xuan Wang**, Shi Zheng, Shuai Li*, Aimin Hao, Xia Hou
 
 [FusionCraft: Fusing Emotion and Identity in Cross-Modal 3D Facial Animation]()
 
-Zhenyu LV, **Xuan Wang**, Wengeng Song*, Xia Hou
+Zhenyu LV, **Xuan Wang**, Wenfeng Song*, Xia Hou
 
 [**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -77,7 +77,7 @@ Zhenyu LV, **Xuan Wang**, Wengeng Song*, Xia Hou
 
 [Voicing Your Emotion: Integrating Emotion and Identity in Cross-Modal 3D Facial Animations]()
 
-Wengeng Song, Zhenyu LV, **Xuan Wang**, Xia Hou*
+Wenfeng Song, Zhenyu LV, **Xuan Wang**, Xia Hou*
 
 [**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
