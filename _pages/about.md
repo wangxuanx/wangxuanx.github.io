@@ -21,7 +21,7 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted to VLDB.
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted to VLDB 2024.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted to TMM.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted to TVCG. 
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted to TVCG.
