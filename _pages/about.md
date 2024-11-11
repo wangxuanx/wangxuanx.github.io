@@ -43,7 +43,7 @@ Jixuan Nie, Xia Hou*, Wenfeng Song, **Xuan Wang**, Xinyu Zhang, Xingliang Jin, S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/CenterFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CenterFormer: A Novel Cluster Center Enhanced Transformer for Unconstrained Dental Plaque Segmentation](https://www.vldb.org/workshops/2024/proceedings/LLM+KG/LLM+KG-4.pdf)
+[CenterFormer: A Novel Cluster Center Enhanced Transformer for Unconstrained Dental Plaque Segmentation](https://ieeexplore.ieee.org/document/10598359)
 
 Wenfeng Song*, **Xuan Wang**, Yuting Guo, Shuai Li*, Bin Xia, Aimin Hao
 
