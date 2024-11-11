@@ -29,6 +29,17 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2024</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Knowledge Graph Efficient Construction: Embedding Chain-of-Thought into LLMs]()
+
+Jixuan Nie, Xia Hou*, Wenfeng Song, **Xuan Wang**, Xinyu Zhang, Xingliang Jin, Shuozhe Zhang, Jiaqi Shi
+
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/CenterFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
