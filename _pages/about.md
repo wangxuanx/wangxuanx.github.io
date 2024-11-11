@@ -32,7 +32,7 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2024</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Knowledge Graph Efficient Construction: Embedding Chain-of-Thought into LLMs]()
+[Knowledge Graph Efficient Construction: Embedding Chain-of-Thought into LLMs](https://www.vldb.org/workshops/2024/proceedings/LLM+KG/LLM+KG-4.pdf)
 
 Jixuan Nie, Xia Hou*, Wenfeng Song, **Xuan Wang**, Xinyu Zhang, Xingliang Jin, Shuozhe Zhang, Jiaqi Shi
 
@@ -43,7 +43,7 @@ Jixuan Nie, Xia Hou*, Wenfeng Song, **Xuan Wang**, Xinyu Zhang, Xingliang Jin, S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/CenterFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CenterFormer: A Novel Cluster Center Enhanced Transformer for Unconstrained Dental Plaque Segmentation]()
+[CenterFormer: A Novel Cluster Center Enhanced Transformer for Unconstrained Dental Plaque Segmentation](https://www.vldb.org/workshops/2024/proceedings/LLM+KG/LLM+KG-4.pdf)
 
 Wenfeng Song*, **Xuan Wang**, Yuting Guo, Shuai Li*, Bin Xia, Aimin Hao
 
@@ -54,7 +54,7 @@ Wenfeng Song*, **Xuan Wang**, Yuting Guo, Shuai Li*, Bin Xia, Aimin Hao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/Emotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Expressive 3D Facial Animation Generation Based on Local-to-global Latent Diffusion]()
+[Expressive 3D Facial Animation Generation Based on Local-to-global Latent Diffusion](https://ieeexplore.ieee.org/document/10670569)
 
 Wenfeng Song*, **Xuan Wang**, Yiming Jiang, Shuai Li*, Aimin Hao, Xia Hou, Hong Qin
 
@@ -65,7 +65,7 @@ Wenfeng Song*, **Xuan Wang**, Yiming Jiang, Shuai Li*, Aimin Hao, Xia Hou, Hong 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/TalkingStyle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TalkingStyle: Personalized Speech-Driven 3D Facial Animation with Style Preservation]()
+[TalkingStyle: Personalized Speech-Driven 3D Facial Animation with Style Preservation](https://ieeexplore.ieee.org/abstract/document/10555000)
 
 Wenfeng Song*, **Xuan Wang**, Shi Zheng, Shuai Li*, Aimin Hao, Xia Hou
 
