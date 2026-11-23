@@ -29,6 +29,53 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2027 在投</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EasyErase: Decoupling Object Localization and Effect-Aware Reconstruction for First-Frame-Guided Video Removal]()
+
+**Xuan Wang**, Siqi Wang, Bo Cheng, Shihao Zhao, Angang Zhang, Yuhang Ma, Kang Xu, Dawei Leng, Yuhui Yin
+
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2027 在投</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mask It Once: Effect-Free Video Object Removal in Long Videos]()
+
+Siqi Wang, Bo Cheng, **Xuan Wang**, Shihao Zhao, Zijing Zhang, Angang Zhang, Yuhang Ma, Kang Xu, Dawei Leng, Yuhui Yin
+
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 在投</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmniLayer: High-Fidelity Multi-Layer Image Generation with Multi-Subject Identity Consistency]()
+
+**Xuan Wang**, Bo Cheng, Siqi Wang, Minghao Dong, Yuhang Ma, Liebucha Wu, Shanyuan Liu, Dawei Leng, Yuhui Yin
+
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2027 在投</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Eye-tracking Assisted Early Screening of Mild Cognitive Impairment Risk in Virtual Reality]()
+
+**Xuan Wang**, Shoulong Zhang, Zhe Wang, Tianle Zhang, Liangliang Cai, Xiangmin Fan, Wenfeng Song, Feng Zhang, Yan Wang, Zhong Zhou, Shuai Li
+
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/CenterFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2024</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
