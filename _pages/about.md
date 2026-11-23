@@ -73,9 +73,6 @@ Siqi Wang, Bo Cheng, **Xuan Wang**, Shihao Zhao, Zijing Zhang, Angang Zhang, Yuh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/CenterFormer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2024</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
