@@ -45,7 +45,7 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 
 [Mask It Once: Effect-Free Video Object Removal in Long Videos]()
 
-Siqi Wang, Bo Cheng, **Xuan Wang**, Shihao Zhao, Zijing Zhang, Angang Zhang, Yuhang Ma, Kang Xu, Dawei Leng, Yuhui Yin
+Siqi Wang, **Xuan Wang**, Bo Cheng, Shihao Zhao, Zijing Zhang, Angang Zhang, Yuhang Ma, Kang Xu, Dawei Leng, Yuhui Yin
 
 [**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
