@@ -29,7 +29,7 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2027 在投</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2027 在投</div><img src='images/CVPR2027_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EasyErase: Decoupling Object Localization and Effect-Aware Reconstruction for First-Frame-Guided Video Removal]()
@@ -40,7 +40,7 @@ I am a postgraduate student at Beijing Information Science and Technology Univer
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2027 在投</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2027 在投</div><img src='images/CVPR2027_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mask It Once: Effect-Free Video Object Removal in Long Videos]()
@@ -51,7 +51,7 @@ Siqi Wang, Bo Cheng, **Xuan Wang**, Shihao Zhao, Zijing Zhang, Angang Zhang, Yuh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 在投</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 在投</div><img src='images/AAAI2027.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OmniLayer: High-Fidelity Multi-Layer Image Generation with Multi-Subject Identity Consistency]()
@@ -62,7 +62,7 @@ Siqi Wang, Bo Cheng, **Xuan Wang**, Shihao Zhao, Zijing Zhang, Angang Zhang, Yuh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2027 在投</div><img src='images/vldb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2027 在投</div><img src='images/IEEEVR2027.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Eye-tracking Assisted Early Screening of Mild Cognitive Impairment Risk in Virtual Reality]()
